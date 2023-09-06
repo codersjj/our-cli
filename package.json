@@ -1,9 +1,9 @@
 {
-  "name": "my-cli",
+  "name": "our-cli",
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "my-cli": "./lib/index.js"
+    "our-cli": "./lib/index.js"
   },
   "main": "index.js",
   "scripts": {
