@@ -17,9 +17,7 @@
     "download-git-repo": "^3.0.2",
     "ejs": "^3.1.9",
     "gradient-string": "^2.0.2",
+    "kolorist": "^1.8.0",
     "prompts": "^2.4.2"
-  },
-  "devDependencies": {
-    "kolorist": "^1.8.0"
   }
 }
