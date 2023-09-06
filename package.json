@@ -1,7 +1,7 @@
 {
   "name": "our-cli",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "A CLI that helps you quickly set up and develop frontend projects",
   "bin": {
     "our-cli": "./lib/index.js"
   },
